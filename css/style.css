@@ -1,0 +1,20 @@
+.login-section{
+	margin-top: 100px;
+}
+h3{
+ font-family: verdana;
+ font-weight: bold;
+}
+ul li{
+	display: inline-block;
+	list-style: none;
+	padding: 10px;
+}
+ul li a{
+	font-family: verdana;
+	font-weight: bold;
+	font-size: 20px;
+}
+ul li a:hover{
+	text-decoration: none;
+}
